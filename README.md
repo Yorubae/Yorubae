@@ -9,6 +9,7 @@ I dont have friends so im lowkey active all the time, y'all can say hi maybe we 
 
 # Languages:
 i think im kinda good at this
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
 Amateur stats:
