@@ -8,7 +8,7 @@ I dont have friends so im lowkey active all the time, y'all can say hi maybe we 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/based_ricky) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chimshoubae) 
 
 # Languages:
-i think im kinda good at this
+I think im kinda good at this!!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
@@ -19,7 +19,7 @@ Amateur stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorubae&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Latest Tweet
-ion make tweets much often so ywah
+Ion make tweets much often so ywah
 
 [![](https://gtce.itsvg.in/api?username=chimshoubae)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
@@ -37,7 +37,7 @@ Yes, you heard it right this is the "Top" for me
 [![](https://visitcount.itsvg.in/api?id=Yorubae&icon=0&color=12)](https://visitcount.itsvg.in)
 
   ## Donate
-im broke asf send me all your money
+Im broke asf send me all your money
 
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/basedricky) 
 
