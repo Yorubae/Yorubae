@@ -3,7 +3,7 @@
 Hello! I'm Ricky/Yoru , a self proclaimed programmer with a passion for code. I love taking on challenging projects and collaborating with others to create awesome things(I dont mean it tho). Feel free to reach out if you want to work together or just a Hello perhaps?
 
 ## Socials:
-I dont have friends so im lowkey active all the time, y'all can say hi maybe we might get along pretty well haha
+Ion have friends so im lowkey active all the time, y'all can say hi maybe we might get along pretty well haha
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/based_ricky) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chimshoubae) 
 
