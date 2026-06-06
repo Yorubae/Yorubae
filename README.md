@@ -1,4 +1,4 @@
-[![header](https://raw.githubusercontent.com/Yorubae/Yorubae/main/header5(1)(1).jpeg)]()
+[![header](https://raw.githubusercontent.com/rikod3/rikod3/main/header.jpeg)]()
   
 <samp>
 I love Computers <3
